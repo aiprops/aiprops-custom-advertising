@@ -1,8 +1,0 @@
-{
-  "name": "aiprops-custom-advertising",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Catálogo de artículos promocionales y solicitudes de cotización",
-  "scripts": {"dev":"vercel dev"},
-  "engines": {"node": ">=20"}
-}
